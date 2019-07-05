@@ -3,7 +3,7 @@
 .blog-pager span.pagecurrent{background-color:#1e211e!important;color:#fff!important;}
 a,a:link,a:visited,a:active,.nav-menu .menu li a,.Mm-box .item .post-app h1 a,.box-title .title,.nav-menu .home,.nav-menu .btn_search,header[data-item] h1,.post-body,.Mm-box .item .post-app h1 a,#footer-wrapper a,.menu-respon-butt,.comments-list .comment-content,header[data-item] h1 span:after{color:#dad9d9!important;}
 .Mm-box .item .post-app .d-rating i{color:#828282!important;}
-#wrapper{background:#2b2b2b!important;}
+#wrapper, ul.breadcrumb li a, .edit-post i, .edit-post a:hover:before, .edit-post a:hover:after{background:#2b2b2b!important;}
 .label-size{background:transparent!important;}
 .box-title .title{border-bottom:3px solid #dad9d9!important;color:#dad9d9!important;}
 .nav-menu .home{border-left:2px solid #dad9d9!important;}
