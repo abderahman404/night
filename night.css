@@ -14,7 +14,7 @@ body{background:#2b2b2b!important;}
 .btn-dwn:after,.datetime.secondary-text a{color:#2b2b2b!important;}
 a.btn-dwn,.share-menu li a,.dwn-tech a{color:#111!important;}
 @media screen and (max-width : 768px) {.nav-menu .menu{background:#2b2b2b!important;border-right:2px solid #fff!important;color:#fff!important;}}
-@media screen and (max-width: 806px){background: #2b2b2b !important;}
+@media screen and (max-width: 806px){background: #2b2b2b!important;}
 header[data-item] .details a[rel="bookmark"],.datetime.secondary-text,.loadmore a{background:#dad9d9!important;color:#111!important;}
 .postage a,#blog-pager a{color:#fff!important;}
 .postage span{background:#fff!important;color:#111!important;}
