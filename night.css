@@ -1,5 +1,5 @@
- .top-menu,#copyright-wrapper{background:#161716!important;color:#fff!important;}
-.nav-menu,header[data-item] h1 span:after,.Mm-box .item .post-app,.label-size a,.blog-pager span.pagecurrent,header[data-item],.content-block,.navigation-right a i,.navigation-left a i,.comment-actions > a,.comment-actions span{background:#1e211e!important;color:#fff!important;}
+.top-menu,#copyright-wrapper{background:#161716!important;color:#fff!important;}
+.nav-menu, .nav-menu .menu, header[data-item] h1 span:after,.Mm-box .item .post-app,.label-size a,.blog-pager span.pagecurrent,header[data-item],.content-block,.navigation-right a i,.navigation-left a i,.comment-actions > a,.comment-actions span{background:#1e211e!important;color:#fff!important;}
 .blog-pager span.pagecurrent{background-color:#1e211e!important;color:#fff!important;}
 a,a:link,a:visited,a:active,.nav-menu .menu li a,.Mm-box .item .post-app h1 a,.box-title .title,.nav-menu .home,.nav-menu .btn_search,header[data-item] h1,.post-body,.Mm-box .item .post-app h1 a,#footer-wrapper a,.menu-respon-butt,.comments-list .comment-content,header[data-item] h1 span:after{color:#dad9d9!important;}
 .Mm-box .item .post-app .d-rating i{color:#828282!important;}
@@ -14,6 +14,7 @@ body{background:#2b2b2b!important;}
 .btn-dwn:after,.datetime.secondary-text a{color:#2b2b2b!important;}
 a.btn-dwn,.share-menu li a,.dwn-tech a{color:#111!important;}
 @media screen and (max-width : 768px) {.nav-menu .menu{background:#2b2b2b!important;border-right:2px solid #fff!important;color:#fff!important;}}
+@media screen and (max-width: 806px){background: #2b2b2b !important;}
 header[data-item] .details a[rel="bookmark"],.datetime.secondary-text,.loadmore a{background:#dad9d9!important;color:#111!important;}
 .postage a,#blog-pager a{color:#fff!important;}
 .postage span{background:#fff!important;color:#111!important;}
